@@ -1,0 +1,1 @@
+{"id":"833178c2-274f-4647-8112-e5ac02e0ff80","timestamp":1742330040733,"matcher":{"static":{"/api/content/news/database.sql":{"prerender":true}},"wildcard":{},"dynamic":{"/news":{"static":{"/":{"prerender":true}},"wildcard":{},"dynamic":{}}}},"prerendered":["/","/news/1740536058/sneak_peek_chap2","/news/1740272400/sneak_peek_chap1","/news/1742311132/top_3_games_in_2025"]}
